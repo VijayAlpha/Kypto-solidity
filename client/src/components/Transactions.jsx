@@ -1,7 +1,7 @@
-const Transaction = ()=>{
+const Transactions = ()=>{
     return (
         <h1>Transaction</h1>
     );
 }
 
-export default Transaction;
+export default Transactions;
